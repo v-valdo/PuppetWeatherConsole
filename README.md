@@ -9,7 +9,6 @@ educational C# Console App printing *city-specific* and *current* weather data w
 
 ## notes:
 - ParseCities.cs uses a big JSON sample file (bulk.openweathermap.org/sample/daily_14.json.gz) to retrieve city NAME and ID and insert into local SQLite file. It inserts 22 000+ records. The .db file included is already loaded.
-- the API key exposed in early commits is obsolete and was used for testing
 - this is an unfinished demonstrative project with educational intent
 
 ## screenshots
