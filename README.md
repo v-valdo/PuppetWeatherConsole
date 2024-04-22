@@ -1,4 +1,4 @@
-# PuppetWeather (Console Version)
+# PuppetWeather
 
 educational C# Console App printing *city-specific* and *current* weather data with *OpenWeatherMap API*, SQLite, JsonConverter
 
